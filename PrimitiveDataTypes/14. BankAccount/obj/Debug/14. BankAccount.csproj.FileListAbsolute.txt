@@ -1,5 +1,0 @@
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\14. BankAccount\bin\Debug\_14.BankAccount.exe
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\14. BankAccount\bin\Debug\_14.BankAccount.pdb
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\14. BankAccount\obj\Debug\14. BankAccount.csprojResolveAssemblyReference.cache
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\14. BankAccount\obj\Debug\_14.BankAccount.exe
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\14. BankAccount\obj\Debug\_14.BankAccount.pdb

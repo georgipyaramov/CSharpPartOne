@@ -1,4 +1,0 @@
-c:\users\joro sexa\documents\visual studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\09. TriangleOfCopyrightSymbols\bin\Debug\_09.TriangleOfCopyrightSymbols.exe
-c:\users\joro sexa\documents\visual studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\09. TriangleOfCopyrightSymbols\bin\Debug\_09.TriangleOfCopyrightSymbols.pdb
-c:\users\joro sexa\documents\visual studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\09. TriangleOfCopyrightSymbols\obj\Debug\_09.TriangleOfCopyrightSymbols.exe
-c:\users\joro sexa\documents\visual studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\09. TriangleOfCopyrightSymbols\obj\Debug\_09.TriangleOfCopyrightSymbols.pdb

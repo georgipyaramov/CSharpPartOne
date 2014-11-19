@@ -1,5 +1,0 @@
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\02. FloatAndDoubleVars\bin\Debug\_02.FloatAndDoubleVars.exe
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\02. FloatAndDoubleVars\bin\Debug\_02.FloatAndDoubleVars.pdb
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\02. FloatAndDoubleVars\obj\Debug\02. FloatAndDoubleVars.csprojResolveAssemblyReference.cache
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\02. FloatAndDoubleVars\obj\Debug\_02.FloatAndDoubleVars.exe
-C:\Users\Joro SEXA\Documents\Visual Studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\02. FloatAndDoubleVars\obj\Debug\_02.FloatAndDoubleVars.pdb
