@@ -1,0 +1,4 @@
+c:\users\joro sexa\documents\visual studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\12. ASCIITable\bin\Debug\_12.ASCIITable.exe
+c:\users\joro sexa\documents\visual studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\12. ASCIITable\bin\Debug\_12.ASCIITable.pdb
+c:\users\joro sexa\documents\visual studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\12. ASCIITable\obj\Debug\_12.ASCIITable.exe
+c:\users\joro sexa\documents\visual studio 2012\Projects\Homework PrimitiveDataTypesAndVariables\12. ASCIITable\obj\Debug\_12.ASCIITable.pdb

@@ -1,0 +1,15 @@
+﻿using System;
+
+class DeclareVariables
+{
+    static void Main()
+    {
+        ushort a = 52130;
+        sbyte b = -115;
+        int c = 4825932;
+        byte d = 97;
+        short f = -10000;
+
+        Console.WriteLine("{0} {1} {2} {3} {4}",a ,b, c, d, f);
+    }
+}
